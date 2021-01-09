@@ -1,4 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://yetanotherblog.me/static/images/logo.svg" alt="Logo" width="80" height="80">
+
+<h2 align="center">Hi, I am Sam Bulatov</h3>
+
+  <p align="center">
+    Frontend Developer at <a href="https://waliot.com">Waliot</a>
+  </p>
+</p>
 
 <!--
 **mephistorine/mephistorine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
