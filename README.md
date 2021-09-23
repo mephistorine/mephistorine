@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://localhost:9876/static/pictures/mephistorine.svg" alt="Logo" width="80" height="80">
+  <img src="http://mephi.dev/static/pictures/mephistorine.svg" alt="Logo" width="80" height="80">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sam Bulatov</h1>
