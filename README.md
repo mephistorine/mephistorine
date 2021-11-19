@@ -12,6 +12,8 @@
 - Know about my experiences https://mephi.dev/resume
 - Fun fact **Professional rollerblade skater**
 
+<table><tr><td valign="top" width="50%">
+
 ### Connect with me:
 
 - [twitter](https://twitter.com/mephistorine)
@@ -24,6 +26,8 @@
 - [leaflet](https://leafletjs.com/)
 - [rxjs](https://rxjs.dev/)
 
+</td><td>
+  
 ### Main projects
 
 - [RxJS Ru](https://learnrxjs.ru) – Unofficial russian translate RxJS documentation and more
@@ -35,3 +39,5 @@
 ### Communities member
 
 - [KrdDevDays](https://krd.dev)
+
+</td></tr></table>
