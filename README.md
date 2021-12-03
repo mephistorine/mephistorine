@@ -17,7 +17,7 @@
 ### Connect with me:
 
 - [twitter](https://twitter.com/mephistorine)
-- [instagram](https://twitter.com/instagram)
+- [instagram](https://instagram.com/mephistorine)
 
 ### Languages and Tools:
 
