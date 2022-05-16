@@ -30,7 +30,7 @@
   
 ### Main projects
 
-- [RxJS Ru](https://learnrxjs.ru) – Unofficial russian translate RxJS documentation and more
+- [LearnRxJSRu](https://learnrxjs.ru) – Unofficial russian translate RxJS documentation and more
 
 ### Maintained chats
 
@@ -38,6 +38,6 @@
 
 ### Communities member
 
-- [KrdDevDays](https://krd.dev)
+- [krd.dev](https://krd.dev)
 
 </td></tr></table>
