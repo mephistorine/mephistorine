@@ -2,7 +2,7 @@
 
 <img align="right" src="http://mephi.dev/static/pictures/mephistorine.svg" alt="Logo" width="80" height="80">
 
-### I am Frontend developer at [@waliot](https://github.com/waliot) and [@nible-io](https://github.com/nible-io) also core maintainer [@be-Cycled](https://github.com/be-Cycled) app
+### I am Frontend developer
 
 - I’m looking to collaborate on [@be-Cycled](https://github.com/be-Cycled)
 - All of my projects are available at https://mephi.dev/projects
